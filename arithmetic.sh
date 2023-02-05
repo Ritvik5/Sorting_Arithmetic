@@ -1,3 +1,7 @@
 #!/bin/bash
 
-echo "This problem computes diffrenet arithmetic ecpressions and Sort the results."
+echo "Enter three Inputs :"
+read a
+read b
+read c
+ 
